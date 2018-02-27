@@ -1,7 +1,7 @@
 # vuex-demo
 teach us how to use vuex 
 
-下面代码有详细注释
+下面代码有详细注释，可以copy到本地，自己梳理一遍，再敲一遍，一定会有所收获。
 
 # Demo
 [vuex购物车demo](https://weirui88888.github.io/vuex-demo/vuex-demo/dist/index.html)
@@ -477,4 +477,6 @@ export default {
 }
 </script>
 ```
+
+
 
