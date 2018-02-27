@@ -1,10 +1,16 @@
 # vuex-demo
 teach us how to use vuex 
 
-下面代码有详细注释，可以copy到本地，自己梳理一遍，再敲一遍，一定会有所收获。
+下面代码有详细注释，可以clone到本地，自己跟着敲一遍。
+
+如果本文能够为你带来一丝的收获，我会感到很高兴。也希望你们可以动动你们的小手👋，给个⭐️哦。
+
+
 
 # Demo
 [vuex购物车demo](https://weirui88888.github.io/vuex-demo/vuex-demo/dist/index.html)
+
+
 
 
 ---
