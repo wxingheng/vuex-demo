@@ -1,5 +1,6 @@
 # vuex-demo
-teach us how to use vuex 
+
+**Teach us how to use vuex**
 
 下面代码有详细注释，可以clone到本地，自己跟着敲一遍。
 
@@ -10,8 +11,8 @@ teach us how to use vuex
 # Demo
 [vuex购物车demo](https://weirui88888.github.io/vuex-demo/vuex-demo/dist/index.html)
 
-
-
+## 效果图
+![效果图](https://github.com/weirui88888/vuex-demo/blob/master/vuex-demo/static/images/vuex.gif)
 
 ---
 
