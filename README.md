@@ -1,6 +1,9 @@
 # vuex-demo
 teach us how to use vuex 
 
+# Demo
+https://weirui88888.github.io/vuex-demo/vuex-demo/dist/index.html
+
 ---
 
 ### 前言
